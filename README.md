@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/GoogleColab-F9AB00?style=flat-square&logo=GoogleColab&logoColor=white"/></a>&nbsp 
 </p>
 
-This repository is a review of the book **_'Natural Language Bible'_** written by Heiseok Lim et al. This book leads from the basics of natural language processing to pre-trained models including BERT, GPT and Transformers. All of the practice codes are implemented through Google colab. The pdf file is the note taken when reviewing the book.
+This repository is a review of the book **_'Natural Language Bible'_** written by Heiseok Lim et al. This book leads from the basics of natural language processing to pre-trained models including BERT, GPT and Transformers. All of the practice codes are implemented through Google colab. The pdf file is the note taken when reviewing the book.<br>
 The overall architecture of the reposit is shown below. 
 
 <h2> Code list-up </h2>
